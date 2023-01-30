@@ -1,0 +1,14 @@
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.exe
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.deps.json
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.runtimeconfig.json
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.runtimeconfig.dev.json
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.dll
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\bin\Debug\netcoreapp3.1\SdamQuizSystem.pdb
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.csproj.AssemblyReference.cache
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.AssemblyInfoInputs.cache
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.AssemblyInfo.cs
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.csproj.CoreCompileInputs.cache
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.dll
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.pdb
+C:\Users\yasiru\source\repos\SdamQuizSystem\SdamQuizSystem\obj\Debug\netcoreapp3.1\SdamQuizSystem.genruntimeconfig.cache
